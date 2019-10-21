@@ -1,0 +1,23 @@
+<Model>
+	<Student>
+		<Name> Jose </Name>
+		<Rank> Freshman </Rank>
+		<GPA>0.0</GPA>
+	</Student>
+	<Student>
+		<Name> Alma </Name>
+		<Rank> Senior </Rank>
+		<GPA> 3.49</GPA> 
+	</Student>
+	<Student>
+		<Name> Appa </Name>
+		<Rank> Junior </Rank>
+		<GPA> 3.52 </GPA> 
+	</Student>
+	<Grade> 
+		<Name>Jose</Name>
+		<Assignment>Exam1</Assignment> 
+		<Value>100</Value> 
+		<LetterGrade>A</LetterGrade>
+	</Grade>
+</Model>
